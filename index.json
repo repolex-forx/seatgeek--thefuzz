@@ -1,0 +1,11 @@
+{
+  "org": "seatgeek",
+  "repo": "thefuzz",
+  "versions": [
+    {
+      "commit": "1ba86f33a19deedcf886b74cf6efffd79495a50f",
+      "tag": "",
+      "parsed_at": "2026-10-18T02:28:10.656556+00:00"
+    }
+  ]
+}
