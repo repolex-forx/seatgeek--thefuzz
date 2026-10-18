@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/seatgeek/thefuzz/commit/1ba86f33a19deedcf886b74cf6efffd79495a50f",
       "git:hexsha": "1ba86f33a19deedcf886b74cf6efffd79495a50f",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T02:28:10.656019+00:00"
     },
     {
       "@id": "https://repolex.ai/r/seatgeek/thefuzz/commit/9623bda89742344c7738790f32d05672911afc0e",
